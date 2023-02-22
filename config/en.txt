@@ -1,0 +1,52 @@
+//OPTION FORM***************************************
+Input device:
+Frequency backward:
+Frequency Forward:
+Frequency function:
+Frequency range min:
+Buffor:
+Output device:
+Speed refresh:
+Open on start Windwos
+Language:
+Save
+Load default
+//Message and Default form*******************************
+No Device
+Selected device is not available
+Configuration save
+Microphone
+Loud
+Simulation mouse
+Confirm:
+Always on top
+styles 1
+styles 2
+Systray
+Settings
+Features
+Information
+Exit
+Tool Box
+//FUNCTION FORM****************************************
+Additional functions
+The main functions of the program
+Feature list: See Info
+SAVE
+Default program functions. To edit click:
+Unlock
+restore
+*Syntax: CODE;NAME;FUNCTION / FUNCTION;PARAM1;PARAM2 / JOIN - /*/
+Cursor coordinates:
+//function name************************************************
+BACKWARD
+FORWARD
+STAND-BY
+FLIP
+SCROLL
+MOUSE_CLICK
+DOUBLE_MOUSE_CLICK
+MOUSE_CLICK_HOLD
+MAX_BACKWARD
+MAX_FORWARD
+RIGHT_MOUSE_CLICK

@@ -1,0 +1,53 @@
+//OPTION FORM******************************************
+Urządzenie wejściowe:
+Częstotliwość Tył:
+Częstotliwość Przód:
+Częstotliwość Funkcja:
+Częstotliwość zakres min:
+Bufor:
+Urządzenie wyjściowe:
+Szybkość odświerzania w ms:
+Otwórz program przy starcie Windows
+Język:
+Zapisz
+Przywróć domyślnie
+//Message + Default form*******************************
+Brak urządzenia
+Wybrane urządzenie nie jest już dostępne
+Konfiguracja została zapisana
+Mikrofon
+Głośność
+Symulacja myszy
+Potwierdź
+Zawsze na wierzchu
+Styl 1
+Styl 2
+Schowek
+Ustawienia
+Funkcjie
+Informacjie
+Wyjście
+Przybornik
+//FUNCTION FORM****************************************
+Funkcje dodatkowe
+Główne funkcje programu
+Lista funkcji: Zobacz informacje
+ZAPISZ
+Funkcje główne. Aby edytować kliknij:
+Odblokuj
+Przywróć
+*Składnia: KOD;NAZWA;FUNKCJA / FUNKCJA;PARAMETR1;PARAMETR2 / łączenie - /*/
+Współrzędne kursora:
+//FUNCTION NAME******************************************
+Do Tyłu
+Do Przodu
+STAND-BY
+Zmiana osi
+SCROLL
+Myszka - Lewy
+Myszka - Lewy x2
+Myszka - Lewy trzymaj
+Maks do tyłu
+Maks do przodu
+Myszka - Prawy
+

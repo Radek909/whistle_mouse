@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whistle_mouse", "whistle_mouse\whistle_mouse.csproj", "{13AA2245-32DA-4345-ACC4-0AFBB5EAD044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13AA2245-32DA-4345-ACC4-0AFBB5EAD044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AA2245-32DA-4345-ACC4-0AFBB5EAD044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AA2245-32DA-4345-ACC4-0AFBB5EAD044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AA2245-32DA-4345-ACC4-0AFBB5EAD044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4048DFCF-7C4C-4BEF-A51A-E3168AFCE449}
+	EndGlobalSection
+EndGlobal

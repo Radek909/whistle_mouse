@@ -1,0 +1,37 @@
+﻿//;;Mouse function parametr****************************
+1;LNG_1;BACKWARD
+2;LNG_2;FORWARD
+3;LNG_3;STANDBY
+12;LNG_4;FLIP
+21;LNG_5;SCROLL
+32;LNG_6;MOUSE_CLICK
+323;LNG_7;DOUBLE_MOUSE_CLICK
+321;LNG_11;RIGHT_MOUSE_CLICK
+3232;LNG_8;MOUSE_CLICK_HOLD
+121;LNG_9;MAX_BACKWARD
+212;LNG_10;MAX_FORWARD
+//;;************************************************************
+//;;Function time parametr**********************************
+F_TIME;FRQ3_LONG;35
+F_TIME;FRQ_SHORT;20
+F_TIME;FRQ_TIMER;45
+//;;*************************************************************
+//;;Mouse speed**********************************************
+MOUSE;160;10
+MOUSE;120;8
+MOUSE;80;5
+MOUSE;60;4
+MOUSE;40;3
+MOUSE;10;2
+MOUSE;0;1
+//;;Scroll Speed**********************************************
+SCROLL;120;4
+SCROLL;50;6
+SCROLL;20;7
+SCROLL;1;1
+//;;************************************************************
+//;;tool box speed***************************************
+TBOX_SPEED;500;2
+TBOX_SPEED;200;4
+TBOX_SPEED;100;5
+TBOX_SPEED;50;5
