@@ -1,2 +1,2 @@
 # whistle_mouse
-compiled test version : http://ridics.pl/WhistleMouse-testowa.zip
+compiled test version : ridics.pl/WhistleMouse-testowa.zip
